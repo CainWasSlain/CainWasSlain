@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm currently Pursuing B.Tech Computer Science<br>I'm currently learning C++ and Javascript Frameworks
+I'm currently pursuing my final year in B.Tech Computer Science<br>I'm currently learning C++ and Javascript Frameworks
 
 
 # 💻 Tech Stack:
